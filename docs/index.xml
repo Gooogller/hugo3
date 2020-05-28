@@ -1,80 +1,80 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Cloudy</title>
-        <link>https://gooogller.github.io/hugo/</link>
+        <link>https://gooogller.github.io/hugo3/</link>
         <description>About LoveIt Theme</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 27 May 2020 19:14:18 &#43;0400</lastBuildDate>
-            <atom:link href="https://gooogller.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://gooogller.github.io/hugo3/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Theme Documentation - Basics</title>
-    <link>https://gooogller.github.io/hugo/theme-documentation-basics/</link>
+    <link>https://gooogller.github.io/hugo3/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://gooogller.github.io/hugo/theme-documentation-basics/</guid>
+    <guid>https://gooogller.github.io/hugo3/theme-documentation-basics/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/hugo/images/theme-documentation-basics/featured-image.jpg" referrerpolicy="no-referrer">
+                <img src="/hugo3/images/theme-documentation-basics/featured-image.jpg" referrerpolicy="no-referrer">
             </div><p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
 </item><item>
     <title>Theme Documentation - Content</title>
-    <link>https://gooogller.github.io/hugo/theme-documentation-content/</link>
+    <link>https://gooogller.github.io/hugo3/theme-documentation-content/</link>
     <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://gooogller.github.io/hugo/theme-documentation-content/</guid>
+    <guid>https://gooogller.github.io/hugo3/theme-documentation-content/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/hugo/images/theme-documentation-content/featured-image.jpg" referrerpolicy="no-referrer">
+                <img src="/hugo3/images/theme-documentation-content/featured-image.jpg" referrerpolicy="no-referrer">
             </div><p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>]]></description>
 </item><item>
     <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>https://gooogller.github.io/hugo/theme-documentation-built-in-shortcodes/</link>
+    <link>https://gooogller.github.io/hugo3/theme-documentation-built-in-shortcodes/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://gooogller.github.io/hugo/theme-documentation-built-in-shortcodes/</guid>
+    <guid>https://gooogller.github.io/hugo3/theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/hugo/images/theme-documentation-built-in-shortcodes/featured-image.png" referrerpolicy="no-referrer">
+                <img src="/hugo3/images/theme-documentation-built-in-shortcodes/featured-image.png" referrerpolicy="no-referrer">
             </div><p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
 </item><item>
     <title>Theme Documentation - Extended Shortcodes</title>
-    <link>https://gooogller.github.io/hugo/theme-documentation-extended-shortcodes/</link>
+    <link>https://gooogller.github.io/hugo3/theme-documentation-extended-shortcodes/</link>
     <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://gooogller.github.io/hugo/theme-documentation-extended-shortcodes/</guid>
+    <guid>https://gooogller.github.io/hugo3/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/hugo/images/theme-documentation-extended-shortcodes/featured-image.jpg" referrerpolicy="no-referrer">
+                <img src="/hugo3/images/theme-documentation-extended-shortcodes/featured-image.jpg" referrerpolicy="no-referrer">
             </div><p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
 </item><item>
     <title>How to learn php</title>
-    <link>https://gooogller.github.io/hugo/how-to-learn-php/</link>
+    <link>https://gooogller.github.io/hugo3/how-to-learn-php/</link>
     <pubDate>Wed, 01 Jan 2020 16:45:40 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://gooogller.github.io/hugo/how-to-learn-php/</guid>
+    <guid>https://gooogller.github.io/hugo3/how-to-learn-php/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/hugo/images/basic-markdown-syntax/featured-image.png" referrerpolicy="no-referrer">
+                <img src="/hugo3/images/basic-markdown-syntax/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item><item>
     <title>Basic Markdown Syntax </title>
-    <link>https://gooogller.github.io/hugo/basic-markdown-syntax/</link>
+    <link>https://gooogller.github.io/hugo3/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://gooogller.github.io/hugo/basic-markdown-syntax/</guid>
+    <guid>https://gooogller.github.io/hugo3/basic-markdown-syntax/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/hugo/images/basic-markdown-syntax/featured-image.png" referrerpolicy="no-referrer">
+                <img src="/hugo3/images/basic-markdown-syntax/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
 😂</p>]]></description>
 </item><item>
     <title>Emoji Support</title>
-    <link>https://gooogller.github.io/hugo/emoji-support/</link>
+    <link>https://gooogller.github.io/hugo3/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://gooogller.github.io/hugo/emoji-support/</guid>
+    <guid>https://gooogller.github.io/hugo3/emoji-support/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/hugo/images/emoji-support/featured-image.jpg" referrerpolicy="no-referrer">
+                <img src="/hugo3/images/emoji-support/featured-image.jpg" referrerpolicy="no-referrer">
             </div><p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
 </item><item>
     <title>Port</title>
-    <link>https://gooogller.github.io/hugo/port/</link>
+    <link>https://gooogller.github.io/hugo3/port/</link>
     <pubDate>Wed, 27 May 2020 19:14:18 &#43;0400</pubDate>
     <author>Author</author>
-    <guid>https://gooogller.github.io/hugo/port/</guid>
+    <guid>https://gooogller.github.io/hugo3/port/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
