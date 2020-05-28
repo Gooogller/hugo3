@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "mermaid.min.css",
-	"sourceRoot": "C:/Users/lenovo/Documents/GitHub/hugo1",
+	"sourceRoot": "C:/Users/lenovo/Documents/GitHub/hugo3",
 	"sources": [
 		"themes/LoveIt-0.2.9/assets/lib/mermaid/mermaid.scss",
 		"themes/LoveIt-0.2.9/assets/lib/mermaid/themes/neutral/index.scss",
